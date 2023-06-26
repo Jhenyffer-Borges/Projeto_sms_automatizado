@@ -1,2 +1,2 @@
 # Projeto_SMS
- Envio de SMS automatizado
+ Receba alertas de desempenho do seu negocio através de SMS automatizados.
